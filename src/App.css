@@ -18,3 +18,11 @@
 .display-num h3 {
 	padding: 0 1rem;
 }
+
+.input {
+	outline: none;
+	font-size: 0.8rem;
+	font-weight: 600;
+	padding: 0.8rem;
+	border-radius: 2rem;
+}
